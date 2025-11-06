@@ -1,7 +1,7 @@
 # simple-wordle
 This is a remake of the classic Wordle. It runs entirely on a java JFrame (through a terminal window). No real purpose of it lol.
 
-(I should also point out that the StdDraw file is not made by me (it is a Java library package).)
+(I should also point out that the StdDraw file is not made by me (it is a Java library package) and I just made a few quixk tweaks to tailor it to the game.)
 
 
 # Guide (step by step):
@@ -23,3 +23,11 @@ To download the game, just tap on the green code button at the top, navigate to 
 4. Next run the game with the command: java Wordle
 - A window should pop up that looks like this:
 
+<img width="696" height="798" alt="Screenshot 2025-11-05 at 4 45 54 PM" src="https://github.com/user-attachments/assets/c771c174-b797-4feb-8554-cbdd222ce6a1" />
+
+5. Enjoy!
+- You can press the "Reset" button to reset the board and the word you have to guess
+
+### Some simple command line "cheats":
+- Saying java Wordle show during runtime (instead of java Wordle) will show you the word that you need to guess for this turn (and the next ones).
+- You can choose your own words as well by putting a word in front of the java Wordle show command (i.e. to make the word "pizza", you should do: java Wordle show pizza)
