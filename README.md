@@ -32,3 +32,7 @@ To download the game, just tap on the green code button at the top, navigate to 
 ### Some simple command line "cheats":
 - Saying: java Wordle show during runtime (instead of: java Wordle) will show you the word that you need to guess for this turn (and the next ones).
 - You can choose your own words as well by putting a word in front of the java Wordle show command (i.e. to make the word "pizza", you should do: java Wordle show pizza)
+
+
+### Final Note:
+- I will probably update this somewhat constantly (at least for a while), so any current bugs (I don't think they are any, but I could be wrong), will probably be patched soon.
