@@ -1,4 +1,4 @@
-### PLEASE NOTE THAT StdDraw.java was not created by me and I only made a few tweaks to it to fit my program (StdDraw is a java library program).
+### Please note that StdDraw.java was not created by me and I only made a few tweaks to it to fit my program (StdDraw is a java library program).
 
 
 # Simple Wordle
