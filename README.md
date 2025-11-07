@@ -5,9 +5,11 @@
 
 A fun little remake of the classic (well technically, one change is you can play it without wifi 😃)...
 
-<img width="699" height="795" alt="Screenshot 2025-11-05 at 4 55 55 PM" src="https://github.com/user-attachments/assets/b066c3e1-b42a-46d0-a552-a6f70b533f7c" />
+
 
 # Guide (step by step):
+
+<img width="699" height="802" alt="Screenshot 2025-11-06 at 10 17 52 PM" src="https://github.com/user-attachments/assets/ccf2764f-8365-4c9c-b166-22df27b2b2a6" />
 
 ### Install the latest release for best experience (older releases will work fine as well, but they will have more bugs and less features obviously).
 ### Also prereleases may often be ridden with bugs, so if you want a smoother experience, you should install the latest FULL release. However, playing the prereleases will give you funner releases, so as long as you don't mind bugs too much, check it out (plus it helps with bug testing 😃).
@@ -25,7 +27,7 @@ A fun little remake of the classic (well technically, one change is you can play
 4. Next run the game with the command: java Wordle
 - A window should pop up that looks like this:
 
-<img width="696" height="798" alt="Screenshot 2025-11-05 at 4 45 54 PM" src="https://github.com/user-attachments/assets/c771c174-b797-4feb-8554-cbdd222ce6a1" />
+<img width="692" height="793" alt="Screenshot 2025-11-06 at 10 17 21 PM" src="https://github.com/user-attachments/assets/7ce6d213-e93f-43b0-bc60-1096ec594e8a" />
 
 5. Enjoy 🔥!
 - You can press the "Reset" button to reset the board and the word you have to guess
